@@ -2,10 +2,10 @@
   "name": "acentswap-toolkit",
   "version": "1.0.0",
   "description": "AcentSwap frontend packages",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
-  ],
+   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acentswap/acentswap-toolkit.git"
